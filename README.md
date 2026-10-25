@@ -20,8 +20,8 @@ adbscan.py is required for the Shizuku method. It's in this repo.
     adb tcpip 5555
     adb connect localhost:5555
 
-All done. Now you can use adb with no wifi and no wireless debugging.
+All done. Now you can use adb with no wifi and no shizuku
 
 ## Note
 
-After every reboot, adb tcpip 5555 resets. Repeat both steps once.
+After every reboot, adb tcpip 5555 resets. Repeat both steps once every reboot.
