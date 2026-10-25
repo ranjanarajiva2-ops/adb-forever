@@ -1,5 +1,5 @@
 # adb-forever
-get adb forever until you reboot by getting shizuku or adb onc
+get adb forever until you reboot by getting shizuku or adb once
 
 ## Step 1: Turn on wireless debugging
 
